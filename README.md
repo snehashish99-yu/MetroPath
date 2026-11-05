@@ -1,4 +1,4 @@
-# MetroPath — Kolkata Metro navigation (DSLab / DSA project)
+# MetroPath — Kolkata Metro navigation 
 
 ## Run (Windows 11 + VS Code)
 1. Install VS Code, then the **Live Server** extension (Ritwick Dey).
